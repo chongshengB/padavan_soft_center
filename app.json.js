@@ -14,7 +14,7 @@
             "name": "shadowsocks", 
             "tar_url": "shadowsocks/shadowsocks.tar.gz", 
             "title": "科学上网", 
-            "version": "1.1.2"
+            "version": "1.1.3"
         }, 
         {
             "description": "adbyby plus", 
